@@ -1,2 +1,0 @@
-# Calculadora
-Teste De Calculadora
